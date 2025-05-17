@@ -292,7 +292,7 @@ We have used the MedQuad dataset from :
 - Allows users to ask questions, send them, and receive responses from the chatbot.
 - Messages are displayed in a visually distinct format, with user messages on the right and bot responses on the left.
 
-<img src="Figures/app4.png"> 
+<img src="Figures/UI.png"> 
 
 - **Backend**: **AWS-based deployment** with Pinecone DB integration.
 - **Frontend**: Streamlit UI hosted on **cloud servers**.
